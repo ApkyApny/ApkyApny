@@ -1,0 +1,71 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff8f0;
+  color: #333;
+}
+header {
+  background-color: #f9e0d9;
+  padding: 20px;
+  text-align: center;
+}
+header .logo {
+  max-height: 80px;
+}
+header h1 {
+  margin: 10px 0 5px;
+  font-size: 24px;
+  color: #5a2d2d;
+}
+header .tagline {
+  font-style: italic;
+  color: #a34a4a;
+}
+nav {
+  margin-top: 15px;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #5a2d2d;
+  font-weight: bold;
+}
+main {
+  padding: 20px;
+}
+footer {
+  background-color: #f9e0d9;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #5a2d2d;
+}
+button {
+  background-color: #a34a4a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #5a2d2d;
+}
+.founder-message {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.founder-message h2 {
+  color: #5a2d2d;
+}
+.signature {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #a34a4a;
+}
